@@ -2,6 +2,10 @@
   background-color: rgba(163, 52, 51, 1);
 }
 
+.contendor {
+  height: 100vh;
+}
+
 
 .navbar-cabecera {
   background-color: white;
@@ -20,7 +24,7 @@
 
 .barra-navegacion {
   background-color: rgba(200, 113, 40, 0.9);
-  text-align: center;
+  color: black;
 }
 
 .contenido {
