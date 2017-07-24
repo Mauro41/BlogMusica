@@ -6,20 +6,18 @@
   height: 100vh;
 }
 
-
-.navbar-cabecera {
+.cabecera {
   background-color: white;
   min-height: 190px;
 }
 
-.iconos-redes{
-  max-width: 32px;
-  max-height: 32px;
+.margen-seccion-redes {
+  min-height: 120px;
 }
 
-.imagenes-redes img{
-  margin-top: 120px;
-
+.imagenes-redes {
+  width: 40px;
+  height: 40px;
 }
 
 .barra-navegacion {
@@ -50,10 +48,4 @@
 .imagenUsuario {
   max-width: 50px;
   max-height: 50px;
-}
-
-.vcenter {
-    display: inline-block;
-    vertical-align: middle;
-    float: none;
 }
